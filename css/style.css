@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+:root {
+  --primary-orange: hsl(25, 97%, 53%);
+  --neutral-white: hsl(0, 0%, 100%);
+  --neutral-light-grey: hsl(217, 12%, 63%);
+  --neutral-medium-grey: hsla(216, 12%, 54%, 0.1);
+  --neutral-dark-blue: hsl(213, 19%, 18%);
+  --neutral-very-dark-blue: hsl(216, 12%, 8%);
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 1.6rem;
+  font-family: Overpass, Arial, Helvetica, sans-serif;
+  background-color: var(--neutral-very-dark-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 412px;
+  height: 417px;
+  background-color: var(--neutral-dark-blue);
+  border-radius: 30px;
+  padding: 30px;
+  color: var(--neutral-white);
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.star {
+  width: 50px;
+  height: 50px;
+  background-color: var(--neutral-medium-grey);
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 35px;
+}
+
+h1 {
+  margin-bottom: 15px;
+  font-size: 2.8rem;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 2.4rem;
+  margin-bottom: 25px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li {
+  width: 50px;
+  height: 50px;
+  background-color: var(--neutral-medium-grey);
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+  transition: background-color 150ms ease-in-out;
+}
+
+li:hover {
+  background-color: hsl(217, 12%, 63%);
+  cursor: pointer;
+}
+
+.active {
+  background-color: var(--primary-orange);
+}
+
+h1,
+li,
+p,
+button {
+  font-weight: 700;
+}
+
+button {
+  width: 352px;
+  height: 45px;
+  border-radius: 100px;
+  border: none;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  background-color: var(--primary-orange);
+  color: var(--neutral-white);
+  letter-spacing: 0.12rem;
+}
+
+.card-rated {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-rated p {
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+}
+
+.rate-msg {
+  margin-top: 32px;
+  margin-bottom: 38px;
+  background-color: var(--neutral-medium-grey);
+  color: var(--primary-orange);
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+
+
+/*
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+
+    // If there's no active class
+    if (current.length > 0) {
+      current[0].className = current[0].className.replace(" active", "");
+    }
+
+    // Add the active class to the current/clicked button
+    this.className += " active";
+  });
+}
+
+*/
