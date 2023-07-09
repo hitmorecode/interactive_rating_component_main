@@ -114,6 +114,13 @@ button {
   background-color: var(--primary-orange);
   color: var(--neutral-white);
   letter-spacing: 0.12rem;
+  transition: background-color 150ms ease-in-out;
+}
+
+button:hover {
+  background-color: var(--neutral-white);
+  color: var(--primary-orange);
+  cursor: pointer;
 }
 
 .card-rated {
