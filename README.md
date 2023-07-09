@@ -45,6 +45,8 @@ Users should be able to:
 
 ![screen 5a](./screenshot/screenthot_05a.jpg)
 
+![screen 6](./screenshot/screenthot_06.jpg)
+
 
 ### Links
 
