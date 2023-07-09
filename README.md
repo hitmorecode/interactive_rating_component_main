@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML Solution](https://github.com/hitmorecode/social_proof_section_master/blob/main/index.html)
-- Solution URL: [CSS Solution](https://github.com/hitmorecode/social_proof_section_master/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/social_proof_section_master/)
+- Solution URL: [HTML Solution](https://github.com/hitmorecode/interactive_rating_component_main/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/hitmorecode/interactive_rating_component_main/blob/main/css/style.css)
+- Live Site URL: [Live site](https://hitmorecode.github.io/interactive_rating_component_main/)
 
 ## My process
 
