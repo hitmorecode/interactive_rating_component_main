@@ -29,23 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screen 1](./screenshot/screenshot_01.jpg)
 
-![screen 1a](./screenshot/screenshot_01a.jpg)
-
-![screen 2](./screenshot/screenthot_02.jpg)
-
-![screen 2a](./screenshot/screenthot_02a.jpg)
-
-![screen 3](./screenshot/screenthot_03.jpg)
-
-![screen 4](./screenshot/screenthot_04.jpg)
-
-![screen 5](./screenshot/screenthot_05.jpg)
-
-![screen 5a](./screenshot/screenthot_05a.jpg)
-
-![screen 6](./screenshot/screenthot_06.jpg)
 
 
 ### Links
