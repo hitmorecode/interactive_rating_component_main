@@ -29,15 +29,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/screenshot_01.jpg)
+![screen 1](./screenshot/screenshot_01.jpg)
 
-![](../screenshot/screenthot_02.jpg)
+![screen 2](../screenshot/screenthot_02.jpg)
 
-![](./screenshot/screenthot_03.jpg)
+![screen 3](./screenshot/screenthot_03.jpg)
 
-![](./screenshot/screenthot_04.jpg)
+![screen 4](./screenshot/screenthot_04.jpg)
 
-![](./screenshot/screenthot_05.jpg)
+![screen 5](./screenshot/screenthot_05.jpg)
 
 
 ### Links
