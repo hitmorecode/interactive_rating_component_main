@@ -39,7 +39,7 @@ Users should be able to:
 
 ![screen 4](./screenshot/screenthot_04.jpg)
 
-![screen 5](./screenshot/screenthot_05.jpg)
+![screen 5](./screenshot/screenthot_05a.jpg)
 
 
 ### Links
