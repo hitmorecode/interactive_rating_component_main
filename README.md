@@ -10,7 +10,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -48,6 +47,10 @@ Users should be able to:
 - Flexbox
 - JavaScript
 
+
+### Continued development
+
+Wokring to level up my JavaScript skills. It was not so easy to come with a solution for this challenge.
 
 ### Useful resources
 
