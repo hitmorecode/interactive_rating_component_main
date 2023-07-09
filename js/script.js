@@ -10,7 +10,7 @@ maxScore.textContent = score.length;
 function giveStars (num) {
   for (let i = 0; i < score.length; i++) {
     score[i].addEventListener ("click", function () {
-      let num = score[i].innerText;
+      let num = score[i].textContent;
 
       let current = document.getElementsByClassName("active");
 
