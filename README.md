@@ -35,6 +35,8 @@ Users should be able to:
 
 ![screen 2](./screenshot/screenthot_02.jpg)
 
+![screen 2a](./screenshot/screenthot_02a.jpg)
+
 ![screen 3](./screenshot/screenthot_03.jpg)
 
 ![screen 4](./screenshot/screenthot_04.jpg)
