@@ -36,6 +36,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/interactive_rating_component_main/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/interactive_rating_component_main/blob/main/css/style.css)
+- Solution URL: [JavaScript Solution](https://github.com/hitmorecode/interactive_rating_component_main/blob/main/js/script.js)
 - Live Site URL: [Live site](https://hitmorecode.github.io/interactive_rating_component_main/)
 
 ## My process
