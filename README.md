@@ -33,8 +33,6 @@ Users should be able to:
 
 ![](../screenshot/screenthot_02.jpg)
 
-![](./screenshot/screenthot_02a.jpg)
-
 ![](./screenshot/screenthot_03.jpg)
 
 ![](./screenshot/screenthot_04.jpg)
